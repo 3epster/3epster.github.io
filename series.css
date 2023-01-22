@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #212529;
+    text-align: right;
+}
+
+body {
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+hr.solid {
+  border-top: 3px solid #bbb;
+  color: red;
+}
+
+body {
+    background-color: skyblue;
+}
+
+a[href] {
+  color:#F91818 ;
+}
+
